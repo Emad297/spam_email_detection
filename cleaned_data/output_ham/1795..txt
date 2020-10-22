@@ -1,0 +1,1 @@
+'returnpath', 'skip', 'poboxcom', 'deliverydate', 'sat', 'sep', 'skip', 'poboxcom', 'skip', 'montanaro', 'date', 'fri', 'sep', 'subject', 'spambayes', 'speed', 'messageid', 'frequency', 'laptop', 'disk', 'chirps', 'indication', 'hammie', 'faster', 'spamassassin', 'skip'

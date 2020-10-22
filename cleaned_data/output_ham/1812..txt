@@ -1,0 +1,1 @@
+'returnpath', 'skip', 'poboxcom', 'deliverydate', 'sun', 'sep', 'skip', 'poboxcom', 'skip', 'montanaro', 'date', 'sat', 'sep', 'subject', 'spambayes', 'spambayes', 'package', 'messageid', 'road', 'people', 'creating', 'spambayes', 'package', 'containing', 'classifier', 'tokenizer', 'minimize', 'clutter', 'sitepackages', 'skip'

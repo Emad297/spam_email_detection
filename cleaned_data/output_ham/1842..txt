@@ -1,0 +1,1 @@
+'returnpath', 'skip', 'poboxcom', 'deliverydate', 'mon', 'sep', 'skip', 'poboxcom', 'skip', 'montanaro', 'date', 'mon', 'sep', 'subject', 'spambayes', 'spambayes', 'package', 'inreplyto', 'references', 'cthulhugergca', 'messageid', 'guido', 'care', 'installing', 'extra', 'files', 'guido', 'inside', 'package', 'guess', 'nt', 'worry', 'nt', 'clean'

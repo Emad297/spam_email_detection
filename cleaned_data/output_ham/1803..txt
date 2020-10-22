@@ -1,0 +1,1 @@
+'returnpath', 'skip', 'poboxcom', 'deliverydate', 'sat', 'sep', 'skip', 'poboxcom', 'skip', 'montanaro', 'date', 'sat', 'sep', 'subject', 'spambayes', 'ca', 'nt', 'write', 'cvs', 'inreplyto', 'references', 'lnbbljkpbehfedalkolccelkbcabtimone', 'comcastnet', 'messageid', 'skip', 'try', 'checkout', 'directory', 'nt', 'help', 'means', 'time', 'bed', 'skip'
